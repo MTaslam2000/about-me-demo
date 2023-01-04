@@ -33,3 +33,17 @@ header .logo {
 main {
     padding: 20px;
 }
+
+#cat {
+    height: 300px;
+   }
+
+ul {
+    font-family: helvetica;
+    font-size: 28px;
+}  
+
+li {
+    font-family: sans-serif;
+    font-size: 15px;
+}
